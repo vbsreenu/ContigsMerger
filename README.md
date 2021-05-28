@@ -9,4 +9,8 @@ Script to merge contigs generated using different de novo assembly methods. It u
 *chmod +x contigsMerger* 
 
 ## Usage
+*contigsMerger reference.fa contigs.fa N*
+
+if you want to fill the gaps with reference sequence
+
 *contigsMerger reference.fa contigs.fa*
